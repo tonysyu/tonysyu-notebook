@@ -304,13 +304,12 @@ var users = repo.Find(account => account.LastName=="Porter");
 Summary of Data Access Patterns
 -------------------------------
 
+Here's a _rough_ summary of the core patterns:
 
 |               | Single table data  | Multi-table data |
 |---------------|--------------------|------------------|
 | Single object | Row Data Gateway   | Data Mapper      |
 | Collection    | Table Data Gateway | Repository       |
-
-# The Repository Pattern in Pop
 
 ...
 
