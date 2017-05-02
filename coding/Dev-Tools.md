@@ -10,6 +10,7 @@ Vim
 ---
 
 - neovim: A modern fork of vim
+    - [Setting up Python for Neovim](https://github.com/zchee/deoplete-jedi/wiki/Setting-up-Python-for-Neovim#using-virtual-environments)
 - vimr: Neovim-backed GUI
 - Ctrl-P
 - Context-aware completion and linting
